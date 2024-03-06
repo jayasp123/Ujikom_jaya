@@ -50,7 +50,7 @@
 
 
 <footer class="d-flex justify-content-center border-top mt-3 bg-secondary fixed-bottom">
-    <p>&copy; UKK RPL 2024 | Siti Eliyani</p>
+    <p>&copy; UKK RPL 2024 | Jaya Supriadi</p>
 </footer>
  
 <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
